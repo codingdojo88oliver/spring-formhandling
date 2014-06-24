@@ -21,7 +21,7 @@
     </dependencies>
 
     <properties>
-        <start-class>formhandling.App</start-class>
+        <start-class>application.App</start-class>
     </properties>
 
     <build>
